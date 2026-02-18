@@ -123,6 +123,7 @@ It demonstrates practical application of event data analysis and football networ
 ## Author
 
 Moritz Philipp Haaf, BSc MA
+
 Football Data Science | MSc AI Applied to Sports  
 
 LinkedIn: https://www.linkedin.com/in/moritz-philipp-haaf/
